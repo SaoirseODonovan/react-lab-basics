@@ -2,7 +2,7 @@ import React from "react";
 import ComponentHierarchy from "../../components/samples/05_hierarchy";
 
 export default {
-  title: "Sample/04 - Component collection (Iteration",
+  title: "Sample/05 - Component Hierarchy",
   component: ComponentHierarchy,
 };
 
