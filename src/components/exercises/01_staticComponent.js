@@ -4,7 +4,8 @@ import "../../../node_modules/bootstrap/dist/css/bootstrap.css";
 const Demo = () => {
   return (
   //  <h1>Computer Forensics and Security - Modules table</h1>
-
+  <div>
+    <h1>Computer Forensics and Security - Modules table</h1>
     <table className="table table-bordered">
     <thead>
       <tr>
@@ -26,6 +27,8 @@ const Demo = () => {
       </tr>
     </tbody >
   </table>
+  </div>
+
   );
 };
 
